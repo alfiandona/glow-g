@@ -14,7 +14,7 @@ Render markdown on the CLI, with _pizzazz_!
     <img src="https://stuff.charm.sh/glow/glow-1.3-trailer-github.gif" width="600" alt="Glow UI Demo">
 </p>
 
-## What is it?
+## What is it? No idea, please explain :)
 
 Glow is a terminal based markdown reader designed from the ground up to bring
 out the beauty—and power—of the CLI.
